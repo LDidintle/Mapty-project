@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+*.sqlite3
+__pycache__/
+*.pyc
+.idea/
+.DS_Store
+build/
+dist/
+*.war
+database/backups/
+node_modules/
+target/
